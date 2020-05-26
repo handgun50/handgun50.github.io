@@ -39,7 +39,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 #  email: "adrianwahyudi17@gmail.com"
-  facebook: "adrian.wahyudi.17"
+#  facebook: "adrian.wahyudi.17"
   github: handgun50
   twitter: adrianwahyudi17
   rss: true
